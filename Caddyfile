@@ -1,4 +1,0 @@
-ymst.kro.kr {
-    root * /srv
-    file_server
-}
