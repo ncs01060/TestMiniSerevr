@@ -1,0 +1,4 @@
+ymst.kro.kr {
+  root * /usr/share/caddy
+  file_server
+}
